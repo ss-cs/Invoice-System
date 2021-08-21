@@ -1,4 +1,5 @@
-# Invoice-System:-  This project basically work for creating invoice of products used in shop. 
+# Invoice-System  
+This project basically work for creating invoice of products used in shop. 
 It will provide any shopkeeper to better management of  billing for the products.
 By Using this software shopkeeper can store the customer invoice record. 
 If any user lost their ivoice then by smart search it can search duplicate invoice, and generate duplicate invoice which can be easily downloaded by the shopkeeper.
